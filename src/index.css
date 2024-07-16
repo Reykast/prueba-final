@@ -1,0 +1,38 @@
+.App {
+  text-align: center;
+  padding: 20px;
+}
+
+.formulario {
+  max-width: 400px;
+  margin: 20px auto;
+}
+
+.formulario .form-group {
+  margin-bottom: 15px;
+}
+
+.formulario .error {
+  color: red;
+  margin-bottom: 10px;
+}
+
+.lista {
+  max-width: 600px;
+  margin: 20px auto;
+  text-align: left;
+}
+
+.producto {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border: 1px solid #ddd;
+  padding: 10px;
+  margin-bottom: 10px;
+  border-radius: 5px;
+}
+
+.producto span {
+  font-weight: bold;
+}
